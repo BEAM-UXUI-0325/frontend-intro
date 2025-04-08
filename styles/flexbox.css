@@ -1,0 +1,38 @@
+
+.website-container {
+    background-color: lightgrey;
+    height: 100vh;
+}
+
+.header {
+    background-color: dodgerblue;
+    height: 5em;
+}
+
+.home {
+    display: flex;
+    background-color: grey;
+    height: 100%;
+    /* justify-content: center; */
+}
+
+.dashboard {
+    flex-grow: 1;
+    background-color: lightcoral;
+    /* min-height: 2em; */
+    /* min-width: 2em; */
+}
+
+.feed {
+    flex-grow: 2;
+    background-color: lightseagreen;
+    /* min-height: 2em; */
+    /* min-width: 2em; */
+}
+
+.misc {
+    flex-grow: 1;
+    background-color: lightskyblue;
+    /* min-height: 2em; */
+    /* min-width: 2em; */
+}

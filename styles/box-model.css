@@ -1,0 +1,19 @@
+
+.title {
+    font-size: 28pt;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.description {
+    padding: 20px;
+    border: 7px solid lightgrey;
+    margin: 10px;
+    border-radius: 50px;
+}
+
+.special_text {
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: line-through;
+}
